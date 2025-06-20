@@ -1,6 +1,6 @@
 # Whether App
 
-A modern weather dashboard built with React, TypeScript, Vite, and Tailwind CSS. It allows users to search for cities, view current weather, forecasts, and manage favorite locations.
+A modern weather dashboard built with React, TypeScript,Tanstack Query, Shadcn UI, Recharts Vite, and Tailwind CSS. It allows users to search for cities, view current weather, forecasts, and manage favorite locations.
 
 ---
 
